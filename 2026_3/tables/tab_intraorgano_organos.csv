@@ -1,0 +1,8 @@
+"saf_id","organismo","tipo","unidades","jurisdicciones","unidades_capital","acceso_capital","acceso_provincias","capital_mas_alta"
+"375","375 - Gendarmeria Nacional","seguridad_defensa",129,22,28,-0.014,-0.145,TRUE
+"374","374 - Estado Mayor General del Ejercito","seguridad_defensa",56,14,20,0.113,0.044,TRUE
+"107","107 - Administración de Parques Nacionales","administracion",47,22,4,0.243,0.002,TRUE
+"379","379 - Estado Mayor General de la Armada","seguridad_defensa",32,6,10,0.176,0.08,TRUE
+"381","381 - Estado Mayor General de La Fuerza Aérea","seguridad_defensa",29,5,11,0.068,0.007,TRUE
+"604","604 - Dirección Nacional de Vialidad","infraestructura",26,24,2,0.237,0.07,TRUE
+"371","371 - Estado Mayor Conjunto (EMCO)","seguridad_defensa",21,18,3,0.227,0.071,TRUE

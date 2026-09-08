@@ -1,0 +1,10 @@
+"medida","valor"
+"r(joint axis 1, mean supplier access)",0.775
+"r(joint axis 2, mean supplier access)",-0.133
+"r(joint axis 1, unit-space axis 1)",0.655
+"r(joint axis 2, unit-space axis 1)",-0.334
+"r(joint axis 2, unit-space axis 2)",-0.164
+"R2 of joint axis 2 on the jurisdiction of the seat",0.069
+"R2 of joint axis 1 on the jurisdiction of the seat",0.444
+"R2 of supplier axis 2 on legal form + jurisdiction + modal client",0.128
+"R2 of supplier axis 1 on legal form + jurisdiction + modal client",0.553

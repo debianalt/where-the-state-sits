@@ -1,0 +1,153 @@
+organismo,saf_id,credito_presupuestado,credito_vigente,credito_devengado,servicio_desc
+101 - Fundación Miguel Lillo,101,2828.044712,6804.703921,6734.17217642,Fundación Miguel Lillo
+103 - Consejo Nacional de Investigaciones Científicas y Técnicas,103,199560.966647,507413.443501,504175.67317615997,Consejo Nacional de Investigaciones Científicas y Técnicas
+105 - Comisión Nacional de Energía Atómica,105,90490.344035,206735.123078,194902.65276546,Comisión Nacional de Energía Atómica
+106 - Comisión Nacional de Actividades Espaciales,106,19600.047784,66402.817327,51211.7328962,Comisión Nacional de Actividades Espaciales
+107 - Administración de Parques Nacionales,107,33199.958968,73596.265501,65932.44149142,Administración de Parques Nacionales
+108 - Instituto Nacional del Agua,108,3031.507641,7314.532954,6859.218474140001,Instituto Nacional del Agua
+109 - Sindicatura General de la Nación,109,7194.460006,18837.460006,17775.562196180003,Sindicatura General de la Nación
+112 - Autoridad Regulatoria Nuclear,112,6247.954762,15301.712592,13149.59538632,Autoridad Regulatoria Nuclear
+113 - Teatro Nacional Cervantes,113,3310.82036,8940.294857,8594.39106381,Teatro Nacional Cervantes
+114 - Instituto Nacional de Asociativismo y Economía Social,114,14371.661215,19632.372112,16761.07521461,Instituto Nacional de Asociativismo y Economía Social
+116 - Biblioteca Nacional,116,12841.625466,25912.987032,23245.41994724,Biblioteca Nacional 'Doctor Mariano Moreno'
+117 - Instituto Nacional del Teatro,117,3104.714299,6425.748555,6200.52164163,Instituto Nacional del Teatro
+118 - Instituto Nacional de Asuntos Indígenas,118,2357.352003,4885.05369,4579.4511313699995,Instituto Nacional de Asuntos Indígenas
+120 - Agencia de Deportes Nacional,120,,,,
+121 - Banco Nacional de Datos Genéticos,121,1090.683059,2172.901927,2125.72935,Banco Nacional de Datos Genéticos (BNDG)
+173 - AGENCIA NACIONAL DE PROMOCIÓN DE LA INVESTIGACIÓN; EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN,173,25143.370569,27829.408366,23519.073544259998,"Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación"
+200 - Registro Nacional de las Personas,200,47591.817191,147601.445894,136811.09131817,Registro Nacional de las Personas (RENAPER)
+201 - Dirección Nacional de Migraciones,201,42726.414394,108315.500672,104709.99532768,Dirección Nacional de Migraciones
+202 - Instituto Nacional contra la Discriminación; Xenofobia y el Racismo,202,2354.812228,2452.032187,2240.62455046,"Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo"
+202 - Instituto Nacional contra la Discriminación; la Xenofobia y el Racismo,202,2354.812228,2452.032187,2240.62455046,"Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo"
+203 - Agencia Nacional de Seguridad Vial,203,8016.012837,16261.852822,15115.0133432,Agencia Nacional de Seguridad Vial
+205 - Agencia de Administración de Bienes del Estado,205,5392.413291,11141.499786,9611.59560434,Agencia de Administración de Bienes del Estado
+206 - Centro Internacional para la Promoción de los Derechos Humanos,206,853.629587,1147.52018,669.05108376,Centro Internacional para la Promoción de los Derechos Humanos
+207 - Ente Nacional de Comunicaciones,207,22792.565599999998,64066.806412,55262.93691415,Ente Nacional de Comunicaciones
+208 - Agencia Nacional de Materiales Controlados,208,1278.060017,3046.013397,2521.99307379,Agencia Nacional de Materiales Controlados
+209 - Agencia de Acceso a la Información Pública,209,989.69287,2336.5459579999997,2120.5591798,Agencia de Acceso a la Información Pública
+250 - Caja de Retiros Jubilaciones y Pensiones de la Policía Federal,250,780825.921078,2012158.3877,1950753.39605456,"Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal Argentina"
+301 - Secretaria General de la Presidencia de la Nación,301,21059.482123,72591.66972,58947.72103046,Secretaría General de la Presidencia de la Nación
+303 - Secretaría de Políticas Integrales Sobre Drogas de la Nación Argentina  (SEDRONAR),303,19612.981394,41782.325653,40665.69000692,Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina (SEDRONAR)
+303 - Secretaría de Políticas Integrales sobre Drogas,303,19612.981394,41782.325653,40665.69000692,Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina (SEDRONAR)
+305 - Jefatura de Gabinete de Ministros,305,48449.815675,83711.570952,72078.57552784,Jefatura de Gabinete de Ministros
+307 - Ministerio de Relaciones Exteriores y Culto,307,188314.79902,520717.84038999997,500624.59669354,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto"
+307 - Ministerio de Relaciones Exteriores; Comercio Internacional y Culto,307,188314.79902,520717.84038999997,500624.59669354,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto"
+310 - Ministerio de Salud,310,442807.18802,1150761.807123,1077867.59381561,Ministerio de Salud
+310 - Secretaría de Gobierno de Salud,310,442807.18802,1150761.807123,1077867.59381561,Ministerio de Salud
+311 - Desarrollo Humano y Economía Solidaria,311,2117666.320981,2774057.454985,2667498.84851421,"Secretaría Nacional de Niñez, Adolescencia y Familia"
+311 - Ministerio de Desarrollo Social,311,2117666.320981,2774057.454985,2667498.84851421,"Secretaría Nacional de Niñez, Adolescencia y Familia"
+311 - Ministerio de Salud y Desarrollo Social,311,2117666.320981,2774057.454985,2667498.84851421,"Secretaría Nacional de Niñez, Adolescencia y Familia"
+317 - Ministerio de Ambiente y Desarrollo Sostenible,317,50574.036621,83848.575195,31842.89438064,Ambiente
+317 - Ministerio de Ambiente y Desarrollo Sustentable,317,50574.036621,83848.575195,31842.89438064,Ambiente
+317 - Secretaría de Gobierno de Ambiente y Desarrollo Sustentable,317,50574.036621,83848.575195,31842.89438064,Ambiente
+321 - Instituto Nacional de Estadísticas y Censos,321,15624.389657,33819.541049,32574.53216867,Instituto Nacional de Estadística y Censos (INDEC)
+322 - Ministerio de Turismo,322,73159.166253,67542.356322,41461.66630371,Turismo y Deportes
+322 - Ministerio de Turismo y Deportes,322,73159.166253,67542.356322,41461.66630371,Turismo y Deportes
+322 - Secretaría de Gobierno de Turismo,322,73159.166253,67542.356322,41461.66630371,Turismo y Deportes
+323 - Comision Nacional de Comercio Exterior,323,510.456122,1013.678598,929.17826768,Comisión Nacional de Comercio Exterior (CNCE)
+325 - Ministerio del Interior,325,249040.708559,377622.128799,101539.47695595,Vicejefatura de Gabinete del Interior
+325 - Ministerio del Interior; Obras Públicas y Vivienda,325,249040.708559,377622.128799,101539.47695595,Vicejefatura de Gabinete del Interior
+326 - Super Intendencia de la Administracion de la Policia Federal,326,295213.534665,692961.218604,685505.69204231,Policía Federal Argentina (PFA)
+327 - Ministerio de Transporte,327,596743.594701,515835.08186599996,509921.80093129,Secretaría de Transporte
+328 - Secretaría de Energía,328,2244751.55071,4847026.092198,4640740.08880379,Secretaría de Energía
+328 - Secretaría de Gobierno de Energía,328,2244751.55071,4847026.092198,4640740.08880379,Secretaría de Energía
+330 - Ministerio de Educación,330,2477153.331851,4599183.588027,4331307.59599919,Secretaría de Educación
+330 - Ministerio de Educación; Cultura; Ciencia y Tecnología,330,2477153.331851,4599183.588027,4331307.59599919,Secretaría de Educación
+330 - SECRETARIA DE EDUCACIÓN – MINISTERIO DE CAPITAL HUMANO,330,2477153.331851,4599183.588027,4331307.59599919,Secretaría de Educación
+331 - Servicio Penitenciario Federal,331,125229.682424,329776.604594,326298.82680956,Servicio Penitenciario Federal
+332 - Ministerio de Justicia y Derechos Humanos,332,20762.367937,122092.115364,52677.71485859,Ministerio de Justicia
+336 - SECRETARÍA DE INNOVACIÓN; CIENCIA Y TECNOLOGÍA,336,79431.100246,104688.73051200001,41774.97240924,"Secretaría de Innovación, Ciencia y Tecnología"
+336 - Secretaría de Gobierno de Ciencia; Tecnología e Innovación Productiva,336,79431.100246,104688.73051200001,41774.97240924,"Secretaría de Innovación, Ciencia y Tecnología"
+337 - Secretaría de Cultura,337,,,,
+337 - Secretaría de Gobierno de Cultura,337,,,,
+338 - Secretaria Legal y Técnica,338,4492.497069,9941.497069,9648.44449829,Secretaría Legal y Técnica
+341 - Secretaría Nacional de Niñez; Adolescencia y Familia,341,36797.364075,62084.641388,51027.39109707,Políticas Familiares
+343 - Ministerio de Seguridad,343,78567.436627,182160.973048,167552.37706072,Ministerio de Seguridad
+345 - Consejo Nacional de Coordinación de Politicas Sociales,345,2746.441219,4956.82072,4816.33264165,Consejo Nacional de Coordinación de Políticas Sociales
+347 - Secretaría de Gobierno del Sistema Federal de Medios y Contenidos Públicos,347,,,,
+347 - Secretaría de Medios y Comunicación Pública,347,,,,
+349 - Procuración del Tesoro de la Nación,349,2000.316826,5052.526951,4764.6517212,Procuración del Tesoro de la Nación
+350 - Ministerio de Trabajo; Empleo y Seguridad Social,350,119738.306887,853011.232337,821133.65185501,"Secretaría  de Trabajo, Empleo y Seguridad Social"
+350 - Secretaría de Gobierno de Trabajo y Empleo,350,119738.306887,853011.232337,821133.65185501,"Secretaría  de Trabajo, Empleo y Seguridad Social"
+357 - Ministerio de Economía,357,56711.277736000004,153839.069819,119709.56323799,Ministerio de Economía
+357- Ministerio de Hacienda,357,56711.277736000004,153839.069819,119709.56323799,Ministerio de Economía
+362 - Ministerio de Desarrollo Productivo,362,225995.396715,380131.861438,115595.43375235,Secretaría de Industria y Desarrollo Productivo
+362 - Ministerio de Producción,362,225995.396715,380131.861438,115595.43375235,Secretaría de Industria y Desarrollo Productivo
+362 - Ministerio de Producción y Trabajo,362,225995.396715,380131.861438,115595.43375235,Secretaría de Industria y Desarrollo Productivo
+363 - Ministerio de Agricultura; Ganadería y Pesca,363,113222.978827,8144.85241,8144.84262028,"Secretaría de Agricultura, Ganadería y Pesca"
+363 - Secretaría de Gobierno de Agroindustria,363,113222.978827,8144.85241,8144.84262028,"Secretaría de Agricultura, Ganadería y Pesca"
+364-Ministerio de Obras Públicas,364,409960.669569,287131.965922,63125.96999613,Secretaría de Obras Públicas
+365-Ministerio de Desarrollo Territorial y Hábitat,365,427034.297136,430490.656473,180661.1023007,"Secretaría de Desarrollo Territorial, Hábitat y Vivienda"
+366 - Ministerio de Modernización,366,,,,
+366 - Secretaría de Gobierno de Modernización,366,,,,
+366 - Secretaría de Innovación Pública,366,,,,
+368 - SECRETARÍA DE COMUNICACIÓN Y MEDIOS DE LA PRESIDENCIA DE LA NACIÓN,368,50562.403709000006,2166.964004,2124.94007049,Secretaría de Comunicación y Medios
+370 - Ministerio de Defensa,370,27804.323165,38639.085711,35631.90260882,Ministerio de Defensa (Gastos Propios)
+371 - Estado Mayor Conjunto (EMCO),371,12894.757956,46000.987966,45861.35987617,Estado Mayor Conjunto de las Fuerzas Armadas (EMCO)
+372 - Instituto de Investigaciones Científicas y Técnicas para la Defensa,372,3984.66232,10405.17545,10035.9450044,Instituto de Investigaciones Científicas y Técnicas para la Defensa (CITEDEF)
+374 - Estado Mayor General del Ejercito,374,445070.148802,1241855.608432,1224311.79463983,Estado Mayor General del Ejército Argentino (EMGE)
+375 - Gendarmeria Nacional,375,421655.948859,979169.374397,964139.3923834,Gendarmería Nacional Argentina (GNA)
+376 - Subsecreataría de Planeamiento Operativo y Servicio Logístico de la Defensa,376,2671.5817050000005,8236.724315,8229.64771933,Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa
+376 - Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa,376,2671.5817050000005,8236.724315,8229.64771933,Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa
+377 - INFRAESTRUCTURA ECONOMICA Y SOCIAL,377,56837.743293,714447.539097,585291.53594318,Infraestructura Económica y Social
+379 - Estado Mayor General de la Armada,379,224227.02234,600704.389706,586631.46647567,Estado Mayor General de la Armada Argentina (EMGA)
+380 - Prefectura Naval Argentina,380,224082.813005,515030.206068,511165.95842574,Prefectura Naval Argentina (PNA)
+381 - Estado Mayor General de La Fuerza Aérea,381,192667.75281,510150.894153,500565.28827824,Estado Mayor General de la Fuerza Aérea Argentina (EMGFA)
+382 - Policia de Seguridad Aeroportuaria,382,52654.879997000004,134104.485975,133455.42093372,Policía de Seguridad Aeroportuaria (PSA)
+386-Ministerio de las Mujeres; Géneros y Diversidad,386,,,,
+388 - MINSTERIO DE CAPITAL HUMANO,388,141846.263018,131264.527309,117489.57700706,Ministerio de Capital Humano
+389 - Ministerio de Desregulación y Transformación del Estado,389,,,,
+403 - Superintendencia de Bienestar de la Policia Federal Argentina,403,,,,
+450 - Instituto Geográfico Nacional,450,2441.03254,6228.184811,6023.46703314,Instituto Geográfico Nacional
+451 - Dirección General de Fabricaciones Militares,451,,,,
+452 - Servicio Metereológico Nacional,452,9556.939493,21994.737985,21281.88750122,Servicio Meteorológico Nacional
+470 - Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares,470,546572.971715,1435547.119651,1432938.84955359,Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares
+556 - Autoridad de Cuenca Matanza Riachuelo,556,,,,
+602 - Comisión Nacional de Valores,602,4700.7393139999995,14974.359373000001,12557.62784493,Comisión Nacional de Valores
+603 - Superintendencia de Seguros de la Nación,603,10250.410729,27162.620231,27018.90668328,Superintendencia de Seguros de la Nación
+604 - Dirección Nacional de Vialidad,604,473496.849216,599784.309755,431439.85644326,Dirección Nacional de Vialidad
+607 - Instituto Nacional de Investigación y Desarrollo Pesquero,607,6588.880548,18480.735269,16313.70555573,Instituto Nacional de Investigación y Desarrollo Pesquero
+608 - Instituto Nacional de Tecnología Industrial,608,31160.996823,85628.70379300001,85298.5662855,Instituto Nacional de Tecnología Industrial
+609 - Instituto Nacional de Vitivinicultura,609,7006.968772,16065.142363,13990.83460326,Instituto Nacional de Vitivinicultura
+612 - Tribunal de Tasaciones de la Nación,612,1123.88411,2858.6596720000002,2763.49452427,Tribunal de Tasaciones de la Nación
+613 - Ente Nacional de Obras Hídricas de Saneamiento,613,79201.07677,151964.277771,61846.76816164,Ente Nacional de Obras Hídricas de Saneamiento
+614 - Instituto Nacional de Semillas,614,4248.378588,21280.458420000003,19516.42510589,Instituto Nacional de Semillas
+614 - Instituto Nacional de las Semillas,614,4248.378588,21280.458420000003,19516.42510589,Instituto Nacional de Semillas
+620 - Tribunal Fiscal de la Nación,620,4131.756372,10565.821251,10338.83433475,Tribunal Fiscal de la Nación
+622 - Instituto Nacional de la Propiedad Industrial,622,5032.536494,12432.536494,10503.90363469,Instituto Nacional de la Propiedad Industrial
+623 - Servicio Nacional de Sanidad y Calidad Agroalimentaria,623,72147.988655,164445.307446,161885.29801919,Servicio Nacional de Sanidad y Calidad Agroalimentaria
+624 - Servicio Geológico Minero Argentino,624,3968.030497,10042.851808,9582.47019819,Servicio Geológico Minero Argentino
+651 - Ente Nacional Regulador del Gas,651,20065.359865,50690.365632,49550.58589255,Ente Nacional Regulador del Gas
+652 - Ente Nacional Regulador de la Electricidad,652,4821.291727,15999.404395,13695.3049923,Ente Nacional Regulador de la Electricidad
+656 - Organismo Regulador de Seguridad de Presas,656,974.03671,2270.118016,2199.37128743,Organismo Regulador de Seguridad de Presas
+661 - Comisión Nacional de Regulación de Transporte,661,14398.74644,32590.512867,30284.40788454,Comisión Nacional de Regulación del Transporte
+664 - Organismo Regulador del Sistema Nacional de Aeropuertos,664,3544.600492,9450.925796,8457.39828071,Organismo Regulador del Sistema Nacional de Aeropuertos
+669 - Administración Nacional de Aviación Civil,669,20508.051634,55480.553244,48467.68459687,Administración Nacional de Aviación Civil
+670 - Unidad de Información Financiera,670,3546.606757,8182.486403,7870.39423233,Unidad de Información Financiera
+671 - JUNTA DE SEGURIDAD EN EL TRANSPORTE,671,8077.505463,13582.412125,11010.41452714,Junta de Seguridad en el Transporte
+673 - AGENCIA NACIONAL DE PUERTOS Y NAVEGACIÓN,673,,,,
+716 - BICE Fideicomisos S.A,716,,,,
+801 - Instituto Nacional de Cine y Artes Audiovisuales - INCAA,801,,,,
+802 - Fondo Nacional de las Artes,802,1507.252421,3212.901587,2516.34845385,Fondo Nacional de las Artes
+804 - Comisión Nacional de Evaluación y Acreditación Universitaria,804,1666.389216,4792.245802,4608.6959733700005,Comisión Nacional de Evaluación y Acreditación Universitaria
+850 - Administración Nacional de la Seguridad Social,850,14857478.750916,41765124.027209,41307219.6563984,Administración Nacional de la Seguridad Social
+852 - Superintendencia de Riesgos de Trabajo,852,4159.088633,11187.661185,11112.714420350001,Superintendencia de Riesgos del Trabajo
+852 - Superintendencia de Riesgos del Trabajo,852,4159.088633,11187.661185,11112.714420350001,Superintendencia de Riesgos del Trabajo
+902 - Hospital Nacional en Red Especializado en Salud Mental y Adicciones Licenciada Laura Bonaparte,902,6691.4567910000005,16815.790654,16761.64328369,Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Licenciada Laura Bonaparte'
+903 - Hospital Nacional Dr Baldomero Sommer,903,12829.313798000001,38014.851892,33407.480824109996,Hospital Nacional Dr. Baldomero Sommer
+904 - Administración Nacional de Medicamentos; Alimentos y Tecnología Médica - ANMAT,904,14191.017741,39568.187913,37404.67851278,"Administración Nacional de Medicamentos, Alimentos y Tecnología Médica"
+905 - Instituto Nacional Central Único Coordinador de Ablación e Implante,905,8732.813805,37244.127898,30703.15408828,Instituto Nacional Central Único Coordinador de Ablación e Implante
+906 - Administración Nacional de Laboratorios e Institutos de Salud “Dr. Carlos Malbrán,906,14600.535903,41879.151673,37814.15615159,Administración Nacional de Laboratorios e Institutos de Salud Dr. Carlos G. Malbrán
+908 - Hospital Nacional Dr. Alejandro Posadas,908,62351.004169,171976.001208,150503.44711176,Hospital Nacional Profesor Alejandro Posadas
+908 - Hospital Nacional Profesor Alejandro Posadas,908,62351.004169,171976.001208,150503.44711176,Hospital Nacional Profesor Alejandro Posadas
+909 - Colonia Nacional Dr. Manuel Montes de Oca,909,11264.81469,29483.527121,27197.07520591,Hospital Nacional y Comunidad 'Dr. Ramón Carrillo'
+910 - Instituto Nacional de Rehabilitación Psicofísica del Sur DR. Juan otimio Tessone,910,4501.197276,11240.829814,10764.22910705,Instituto Nacional de Rehabilitación Psicofísica del Sur Dr. Juan Otimio Tesone
+910 - Instituto Nacional de Rehabilitación Psicofísica del Sur Dr. Juan Otimio Tesone,910,4501.197276,11240.829814,10764.22910705,Instituto Nacional de Rehabilitación Psicofísica del Sur Dr. Juan Otimio Tesone
+911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP,911,,,,
+914 - Superintendecia de Servicios de Salud,914,93965.223442,117397.556541,93141.5956277,Superintendencia de Servicios de Salud
+914 - Superintendencia de Servicios de Salud,914,93965.223442,117397.556541,93141.5956277,Superintendencia de Servicios de Salud
+915 - Instituto Nacional del Cáncer,915,3066.427821,4999.027821,4386.21383643,Instituto Nacional del Cáncer (INC)
+916 - Agencia Nacional de Laboratorios Públicos,916,,,,
+917 - Agencia Nacional de Discapacidad,917,1352607.694206,3736523.054502,3707502.74754191,Agencia Nacional de Discapacidad
+918 - Instituto Nacional de las Mujeres,918,,,,
+9196 - Dirección de Obra Social del Servicio Penitenciario Federal,9196,,,,

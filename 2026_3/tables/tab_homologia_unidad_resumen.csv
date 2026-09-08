@@ -1,0 +1,19 @@
+"modelo","valor"
+"shared coordinates (scale, procedure)",0.4261
+"+ functional type",0.555
+"non-shared coordinates alone",0.6309
+"shared + type + non-shared",0.726
+"gain of the non-shared over shared",0.2999
+"gain of the non-shared over type",0.171
+"F of the non-shared over type",7.8186
+"p of that F",0
+"n units",443
+"n parent organs",103
+"r(axis of the non-shared, access)",0.6569
+"SD of the mean access position across units",0.1893
+"F of the jurisdiction block, full model",4.7596
+"p of that F",0
+"provinces below the capital, full model (of 23)",22
+"provinces below the capital with p < 0.05, full model",19
+"parent with a single seat, full model",0.117
+"parent with a single seat, full model, p",1e-04

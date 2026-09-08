@@ -1,0 +1,17 @@
+"lado","variable","f1","f2","f3","g1","g2","g3"
+"unidad","sede_provincia",0.444,0.069,0.221,NA,NA,NA
+"unidad","anclado",0.391,0.056,0.219,NA,NA,NA
+"unidad","A_tipo",0.416,0.111,0.335,NA,NA,NA
+"unidad","A_rango",0.371,0.13,0.296,NA,NA,NA
+"unidad","A_antiguedad",0.37,0.114,0.204,NA,NA,NA
+"unidad","A_presupuesto",0.167,0.036,0.186,NA,NA,NA
+"unidad","N_tamano",0.075,0.009,0.014,NA,NA,NA
+"unidad","N_distribuido",0.579,0.079,0.324,NA,NA,NA
+"proveedor","A_personeria",NA,NA,NA,0.057,0.028,0.007
+"proveedor","provincia",NA,NA,NA,0.174,0.004,0.027
+"proveedor","A_rubro",NA,NA,NA,0.131,0.118,0.156
+"proveedor","A_registro",NA,NA,NA,0.02,0.003,0.006
+"proveedor","A_cliente",NA,NA,NA,0.464,0.1,0.217
+"proveedor","A_escala",NA,NA,NA,0.125,0.04,0.018
+"proveedor","A_directa",NA,NA,NA,0.002,0.022,0.016
+"proveedor","S_fundamento",NA,NA,NA,0.035,0.004,0.047

@@ -1,0 +1,18 @@
+"medida","valor"
+"axis of the reduced supplier space taken as the access axis",1
+"public limited company minus natural person on that axis, in SD",1.5321
+"the same gap on the runner-up axis, in SD",0.574
+"correlation of that axis with the original access axis",0.8277
+"shared coordinates (scale, procedure)",0.2167
+"+ functional type",0.5046
+"non-shared coordinates alone",0.5655
+"shared + type + non-shared",0.6479
+"gain of the non-shared over shared",0.4311
+"gain of the non-shared over type",0.1433
+"F of the non-shared over type",5.0985
+"r(axis of non-shared, access)",0.6754
+"within-organ, F of the jurisdiction block",2.3858
+"within-organ, p of that F",5e-04
+"within-organ, provinces below the capital (of 23)",23
+"within-organ, provinces below the capital with p < 0.05",12
+"n units",443

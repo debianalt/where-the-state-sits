@@ -1,0 +1,9 @@
+"variable","categoria","dim.1","dim.2","dim.3","typic.dim.1","typic.dim.2","typic.dim.3"
+"flag_anclado","anclado",-1.839,-1.578,0.347,-5.3,-4.6,1
+"flag_anclado","no_anclado",0.102,0.088,-0.019,5.3,4.6,-1
+"alcance","lejano",-0.957,-0.681,-0.403,-5.1,-3.6,-2.1
+"alcance","local",0.197,0.115,0.051,5,2.9,1.3
+"alcance","sin_geo",-0.243,0.45,0.688,-0.5,1,1.6
+"tamano","chico",0.06,0.462,-0.262,0.5,4,-2.3
+"tamano","medio",0.093,0.024,0.236,0.8,0.2,2
+"tamano","grande",-0.151,-0.486,0.03,-1.3,-4.2,0.3

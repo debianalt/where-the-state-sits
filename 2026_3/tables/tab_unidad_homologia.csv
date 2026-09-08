@@ -1,0 +1,4 @@
+"medida","valor"
+"r(dim1, access)",0.659
+"r(dim2, access)",0.237
+"R2 access ~ dim1 + dim2",0.491

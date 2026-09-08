@@ -1,0 +1,11 @@
+"nube","medida","valor"
+"units","r(axis 1, axis 2)",-0.1989
+"units","r(axis 1 squared, axis 2)",-0.1259
+"units","R2 of axis 2 on axis 1",0.0395
+"units","R2 of axis 2 on a quadratic of axis 1",0.0396
+"units","gain of the quadratic term",0
+"suppliers","r(axis 1, axis 2)",-0.382
+"suppliers","r(axis 1 squared, axis 2)",-0.4627
+"suppliers","R2 of axis 2 on axis 1",0.146
+"suppliers","R2 of axis 2 on a quadratic of axis 1",0.2225
+"suppliers","gain of the quadratic term",0.0766

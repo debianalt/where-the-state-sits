@@ -1,0 +1,7 @@
+"medida","valor","p"
+"Correlation, first axis",0.205,NA
+"Correlation, second axis",0.515,NA
+"Partial r, first axis (controlling the second)",0.24,NA
+"Partial r, second axis (controlling the first)",0.526,NA
+"Anchoring (several seats), controlling scale",-0.1,0.00912616927892965
+"Deconcentrated rank, controlling scale",-0.021,0.545786203248478

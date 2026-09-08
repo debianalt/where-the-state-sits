@@ -1,0 +1,313 @@
+"lado","variable","eje","categoria","n","media","vtest","r2_variable"
+"unidad","sede_provincia","f1","Buenos Aires",73,-0.283,-0.5,0.444
+"unidad","sede_provincia","f1","CABA",178,0.262,13.3,0.444
+"unidad","sede_provincia","f1","Catamarca",5,-0.646,-1.4,0.444
+"unidad","sede_provincia","f1","Chaco",10,-0.775,-2.6,0.444
+"unidad","sede_provincia","f1","Chubut",13,-0.712,-2.6,0.444
+"unidad","sede_provincia","f1","Córdoba",21,-0.648,-2.9,0.444
+"unidad","sede_provincia","f1","Corrientes",11,-0.845,-3.1,0.444
+"unidad","sede_provincia","f1","Entre Ríos",9,-0.692,-2,0.444
+"unidad","sede_provincia","f1","Formosa",9,-0.885,-2.9,0.444
+"unidad","sede_provincia","f1","Jujuy",6,-0.679,-1.6,0.444
+"unidad","sede_provincia","f1","La Pampa",2,-0.417,-0.4,0.444
+"unidad","sede_provincia","f1","La Rioja",4,-0.785,-1.6,0.444
+"unidad","sede_provincia","f1","Mendoza",11,-0.559,-1.6,0.444
+"unidad","sede_provincia","f1","Misiones",16,-0.764,-3.2,0.444
+"unidad","sede_provincia","f1","Neuquén",11,-0.714,-2.4,0.444
+"unidad","sede_provincia","f1","Río Negro",8,-0.597,-1.5,0.444
+"unidad","sede_provincia","f1","Salta",13,-0.659,-2.3,0.444
+"unidad","sede_provincia","f1","San Juan",7,-0.638,-1.6,0.444
+"unidad","sede_provincia","f1","San Luis",3,-0.629,-1,0.444
+"unidad","sede_provincia","f1","Santa Cruz",16,-0.575,-2,0.444
+"unidad","sede_provincia","f1","Santa Fe",12,-0.737,-2.6,0.444
+"unidad","sede_provincia","f1","Santiago del Estero",4,-0.574,-1,0.444
+"unidad","sede_provincia","f1","Tierra del Fuego",7,-0.582,-1.4,0.444
+"unidad","sede_provincia","f1","Tucumán",6,-0.59,-1.3,0.444
+"unidad","sede_provincia","f2","Buenos Aires",73,0.091,3.3,0.069
+"unidad","sede_provincia","f2","CABA",178,-0.215,-5,0.069
+"unidad","sede_provincia","f2","Catamarca",5,-0.028,0.2,0.069
+"unidad","sede_provincia","f2","Chaco",10,-0.041,0.2,0.069
+"unidad","sede_provincia","f2","Chubut",13,-0.03,0.4,0.069
+"unidad","sede_provincia","f2","Córdoba",21,0.105,1.8,0.069
+"unidad","sede_provincia","f2","Corrientes",11,-0.038,0.3,0.069
+"unidad","sede_provincia","f2","Entre Ríos",9,0.022,0.6,0.069
+"unidad","sede_provincia","f2","Formosa",9,-0.039,0.2,0.069
+"unidad","sede_provincia","f2","Jujuy",6,-0.079,0,0.069
+"unidad","sede_provincia","f2","La Pampa",2,-0.155,-0.2,0.069
+"unidad","sede_provincia","f2","La Rioja",4,-0.028,0.2,0.069
+"unidad","sede_provincia","f2","Mendoza",11,0.124,1.4,0.069
+"unidad","sede_provincia","f2","Misiones",16,-0.055,0.2,0.069
+"unidad","sede_provincia","f2","Neuquén",11,-0.002,0.5,0.069
+"unidad","sede_provincia","f2","Río Negro",8,-0.06,0.1,0.069
+"unidad","sede_provincia","f2","Salta",13,-0.007,0.5,0.069
+"unidad","sede_provincia","f2","San Juan",7,-0.024,0.3,0.069
+"unidad","sede_provincia","f2","San Luis",3,-0.086,0,0.069
+"unidad","sede_provincia","f2","Santa Cruz",16,-0.062,0.1,0.069
+"unidad","sede_provincia","f2","Santa Fe",12,-0.019,0.4,0.069
+"unidad","sede_provincia","f2","Santiago del Estero",4,-0.023,0.2,0.069
+"unidad","sede_provincia","f2","Tierra del Fuego",7,-0.102,-0.1,0.069
+"unidad","sede_provincia","f2","Tucumán",6,-0.035,0.2,0.069
+"unidad","sede_provincia","f3","Buenos Aires",73,-0.159,-2.6,0.221
+"unidad","sede_provincia","f3","CABA",178,0.351,9.7,0.221
+"unidad","sede_provincia","f3","Catamarca",5,-0.171,-0.7,0.221
+"unidad","sede_provincia","f3","Chaco",10,-0.271,-1.5,0.221
+"unidad","sede_provincia","f3","Chubut",13,-0.233,-1.5,0.221
+"unidad","sede_provincia","f3","Córdoba",21,-0.341,-2.7,0.221
+"unidad","sede_provincia","f3","Corrientes",11,-0.318,-1.8,0.221
+"unidad","sede_provincia","f3","Entre Ríos",9,-0.316,-1.6,0.221
+"unidad","sede_provincia","f3","Formosa",9,-0.321,-1.7,0.221
+"unidad","sede_provincia","f3","Jujuy",6,-0.109,-0.5,0.221
+"unidad","sede_provincia","f3","La Pampa",2,0.11,0.2,0.221
+"unidad","sede_provincia","f3","La Rioja",4,-0.256,-0.9,0.221
+"unidad","sede_provincia","f3","Mendoza",11,-0.276,-1.6,0.221
+"unidad","sede_provincia","f3","Misiones",16,-0.231,-1.6,0.221
+"unidad","sede_provincia","f3","Neuquén",11,-0.287,-1.7,0.221
+"unidad","sede_provincia","f3","Río Negro",8,-0.082,-0.4,0.221
+"unidad","sede_provincia","f3","Salta",13,-0.255,-1.6,0.221
+"unidad","sede_provincia","f3","San Juan",7,-0.194,-0.9,0.221
+"unidad","sede_provincia","f3","San Luis",3,-0.099,-0.3,0.221
+"unidad","sede_provincia","f3","Santa Cruz",16,-0.104,-0.8,0.221
+"unidad","sede_provincia","f3","Santa Fe",12,-0.287,-1.7,0.221
+"unidad","sede_provincia","f3","Santiago del Estero",4,-0.167,-0.6,0.221
+"unidad","sede_provincia","f3","Tierra del Fuego",7,-0.004,-0.1,0.221
+"unidad","sede_provincia","f3","Tucumán",6,-0.143,-0.6,0.221
+"unidad","anclado","f1","anclado",321,-0.517,-13.3,0.391
+"unidad","anclado","f1","programatico",135,0.381,13.3,0.391
+"unidad","anclado","f2","anclado",321,-0.003,5,0.056
+"unidad","anclado","f2","programatico",135,-0.247,-5,0.056
+"unidad","anclado","f3","anclado",321,-0.175,-10,0.219
+"unidad","anclado","f3","programatico",135,0.441,10,0.219
+"unidad","A_tipo","f1","administracion",96,0.065,5.3,0.416
+"unidad","A_tipo","f1","ciencia_universidad",17,0.324,3.7,0.416
+"unidad","A_tipo","f1","cultura_educacion",7,0.577,3.4,0.416
+"unidad","A_tipo","f1","infraestructura",31,-0.33,-0.7,0.416
+"unidad","A_tipo","f1","salud_social",22,1.131,10.1,0.416
+"unidad","A_tipo","f1","seguridad_defensa",283,-0.512,-10.9,0.416
+"unidad","A_tipo","f2","administracion",96,-0.307,-5.4,0.111
+"unidad","A_tipo","f2","ciencia_universidad",17,-0.153,-0.7,0.111
+"unidad","A_tipo","f2","cultura_educacion",7,-0.564,-2.8,0.111
+"unidad","A_tipo","f2","infraestructura",31,-0.208,-1.6,0.111
+"unidad","A_tipo","f2","salud_social",22,-0.142,-0.7,0.111
+"unidad","A_tipo","f2","seguridad_defensa",283,0.039,6.6,0.111
+"unidad","A_tipo","f3","administracion",96,0.472,8.5,0.335
+"unidad","A_tipo","f3","ciencia_universidad",17,0.521,3.6,0.335
+"unidad","A_tipo","f3","cultura_educacion",7,1.221,5.4,0.335
+"unidad","A_tipo","f3","infraestructura",31,0.205,1.9,0.335
+"unidad","A_tipo","f3","salud_social",22,0.157,1.2,0.335
+"unidad","A_tipo","f3","seguridad_defensa",283,-0.244,-11.4,0.335
+"unidad","A_rango","f1","centralizada",32,0.844,9.8,0.371
+"unidad","A_rango","f1","descentralizada",146,0.038,6.4,0.371
+"unidad","A_rango","f1","desconcentrada",273,-0.536,-11.3,0.371
+"unidad","A_rango","f1","otro",5,-0.17,0.3,0.371
+"unidad","A_rango","f2","centralizada",32,-0.608,-6.6,0.13
+"unidad","A_rango","f2","descentralizada",146,-0.151,-2.4,0.13
+"unidad","A_rango","f2","desconcentrada",273,0.031,5.9,0.13
+"unidad","A_rango","f2","otro",5,-0.267,-0.9,0.13
+"unidad","A_rango","f3","centralizada",32,0.641,6.2,0.296
+"unidad","A_rango","f3","descentralizada",146,0.338,8,0.296
+"unidad","A_rango","f3","desconcentrada",273,-0.254,-11.3,0.296
+"unidad","A_rango","f3","otro",5,0.545,2,0.296
+"unidad","A_antiguedad","f1","antiguo",375,-0.437,-13,0.37
+"unidad","A_antiguedad","f1","medio",45,0.573,8.9,0.37
+"unidad","A_antiguedad","f1","reciente",36,0.649,8.6,0.37
+"unidad","A_antiguedad","f2","antiguo",375,-0.019,5.5,0.114
+"unidad","A_antiguedad","f2","medio",45,-0.122,-0.7,0.114
+"unidad","A_antiguedad","f2","reciente",36,-0.61,-7.1,0.114
+"unidad","A_antiguedad","f3","antiguo",375,-0.119,-9.6,0.204
+"unidad","A_antiguedad","f3","medio",45,0.587,6.8,0.204
+"unidad","A_antiguedad","f3","reciente",36,0.598,6.1,0.204
+"unidad","A_presupuesto","f1","alto",306,-0.386,-6.3,0.167
+"unidad","A_presupuesto","f1","bajo",36,0.493,7.1,0.167
+"unidad","A_presupuesto","f1","medio",101,-0.203,0.8,0.167
+"unidad","A_presupuesto","f1","sin_presupuesto",13,0.488,4.1,0.167
+"unidad","A_presupuesto","f2","alto",306,-0.025,3.2,0.036
+"unidad","A_presupuesto","f2","bajo",36,-0.339,-3.5,0.036
+"unidad","A_presupuesto","f2","medio",101,-0.12,-1.1,0.036
+"unidad","A_presupuesto","f2","sin_presupuesto",13,-0.186,-0.9,0.036
+"unidad","A_presupuesto","f3","alto",306,-0.14,-7.5,0.186
+"unidad","A_presupuesto","f3","bajo",36,0.709,7.3,0.186
+"unidad","A_presupuesto","f3","medio",101,0.126,2.2,0.186
+"unidad","A_presupuesto","f3","sin_presupuesto",13,0.621,3.7,0.186
+"unidad","N_tamano","f1","chica",152,-0.48,-5.3,0.075
+"unidad","N_tamano","f1","grande",152,-0.039,4.9,0.075
+"unidad","N_tamano","f1","media",152,-0.235,0.4,0.075
+"unidad","N_tamano","f2","chica",152,-0.073,0.1,0.009
+"unidad","N_tamano","f2","grande",152,-0.023,1.7,0.009
+"unidad","N_tamano","f2","media",152,-0.131,-1.8,0.009
+"unidad","N_tamano","f3","chica",152,-0.076,-2.1,0.014
+"unidad","N_tamano","f3","grande",152,0.001,-0.2,0.014
+"unidad","N_tamano","f3","media",152,0.097,2.2,0.014
+"unidad","N_distribuido","f1","distribuido",348,-0.529,-16.2,0.579
+"unidad","N_distribuido","f1","una_sede",108,0.645,16.2,0.579
+"unidad","N_distribuido","f2","distribuido",348,-0.002,6,0.079
+"unidad","N_distribuido","f2","una_sede",108,-0.314,-6,0.079
+"unidad","N_distribuido","f3","distribuido",348,-0.183,-12.1,0.324
+"unidad","N_distribuido","f3","una_sede",108,0.622,12.1,0.324
+"proveedor","A_personeria","g1","OtraForma",951,0.598,9.5,0.057
+"proveedor","A_personeria","g1","PersFisica",4247,-0.023,-22.1,0.057
+"proveedor","A_personeria","g1","SA",2839,0.588,17.8,0.057
+"proveedor","A_personeria","g1","SRL",2492,0.28,0.5,0.057
+"proveedor","A_personeria","g2","OtraForma",951,-1.02,-16.9,0.028
+"proveedor","A_personeria","g2","PersFisica",4247,-0.283,1.1,0.028
+"proveedor","A_personeria","g2","SA",2839,-0.217,3.8,0.028
+"proveedor","A_personeria","g2","SRL",2492,-0.152,6.2,0.028
+"proveedor","A_personeria","g3","OtraForma",951,-0.102,-8.6,0.007
+"proveedor","A_personeria","g3","PersFisica",4247,0.372,3.5,0.007
+"proveedor","A_personeria","g3","SA",2839,0.35,1.8,0.007
+"proveedor","A_personeria","g3","SRL",2492,0.305,-0.1,0.007
+"proveedor","provincia","g1","Buenos Aires",2614,0.431,8.5,0.174
+"proveedor","provincia","g1","CABA",3944,0.725,32.3,0.174
+"proveedor","provincia","g1","Catamarca",59,-0.177,-3.1,0.174
+"proveedor","provincia","g1","Chaco",157,-0.496,-8.7,0.174
+"proveedor","provincia","g1","Chubut",243,-0.558,-11.7,0.174
+"proveedor","provincia","g1","Córdoba",685,-0.195,-11.3,0.174
+"proveedor","provincia","g1","Corrientes",154,-0.575,-9.4,0.174
+"proveedor","provincia","g1","Entre Ríos",172,-0.263,-6.3,0.174
+"proveedor","provincia","g1","Formosa",109,-0.655,-8.7,0.174
+"proveedor","provincia","g1","Jujuy",98,-0.398,-5.9,0.174
+"proveedor","provincia","g1","La Pampa",94,-0.296,-4.9,0.174
+"proveedor","provincia","g1","La Rioja",64,-0.187,-3.3,0.174
+"proveedor","provincia","g1","Mendoza",323,-0.116,-6.3,0.174
+"proveedor","provincia","g1","Misiones",228,-0.678,-12.9,0.174
+"proveedor","provincia","g1","Neuquén",155,-0.354,-7,0.174
+"proveedor","provincia","g1","Río Negro",191,-0.224,-6.2,0.174
+"proveedor","provincia","g1","Salta",128,-0.409,-6.9,0.174
+"proveedor","provincia","g1","San Juan",110,-0.173,-4.2,0.174
+"proveedor","provincia","g1","San Luis",73,-0.23,-3.8,0.174
+"proveedor","provincia","g1","Santa Cruz",139,-0.427,-7.4,0.174
+"proveedor","provincia","g1","Santa Fe",455,0.035,-4.6,0.174
+"proveedor","provincia","g1","Santiago del Estero",80,-0.37,-5.1,0.174
+"proveedor","provincia","g1","Tierra del Fuego",131,-0.376,-6.7,0.174
+"proveedor","provincia","g1","Tucumán",123,-0.012,-2.8,0.174
+"proveedor","provincia","g2","Buenos Aires",2614,-0.348,-2,0.004
+"proveedor","provincia","g2","CABA",3944,-0.289,0.7,0.004
+"proveedor","provincia","g2","Catamarca",59,-0.484,-1,0.004
+"proveedor","provincia","g2","Chaco",157,-0.355,-0.5,0.004
+"proveedor","provincia","g2","Chubut",243,-0.227,0.8,0.004
+"proveedor","provincia","g2","Córdoba",685,-0.113,3.7,0.004
+"proveedor","provincia","g2","Corrientes",154,-0.329,-0.3,0.004
+"proveedor","provincia","g2","Entre Ríos",172,-0.259,0.4,0.004
+"proveedor","provincia","g2","Formosa",109,-0.241,0.5,0.004
+"proveedor","provincia","g2","Jujuy",98,-0.418,-0.8,0.004
+"proveedor","provincia","g2","La Pampa",94,-0.367,-0.5,0.004
+"proveedor","provincia","g2","La Rioja",64,-0.395,-0.5,0.004
+"proveedor","provincia","g2","Mendoza",323,-0.149,2,0.004
+"proveedor","provincia","g2","Misiones",228,-0.239,0.7,0.004
+"proveedor","provincia","g2","Neuquén",155,-0.288,0.1,0.004
+"proveedor","provincia","g2","Río Negro",191,-0.217,0.8,0.004
+"proveedor","provincia","g2","Salta",128,-0.216,0.7,0.004
+"proveedor","provincia","g2","San Juan",110,-0.323,-0.2,0.004
+"proveedor","provincia","g2","San Luis",73,-0.234,0.4,0.004
+"proveedor","provincia","g2","Santa Cruz",139,-0.228,0.6,0.004
+"proveedor","provincia","g2","Santa Fe",455,-0.534,-3.7,0.004
+"proveedor","provincia","g2","Santiago del Estero",80,-0.322,-0.1,0.004
+"proveedor","provincia","g2","Tierra del Fuego",131,-0.241,0.5,0.004
+"proveedor","provincia","g2","Tucumán",123,-0.626,-2.6,0.004
+"proveedor","provincia","g3","Buenos Aires",2614,0.186,-4.7,0.027
+"proveedor","provincia","g3","CABA",3944,0.6,15.2,0.027
+"proveedor","provincia","g3","Catamarca",59,0.404,0.5,0.027
+"proveedor","provincia","g3","Chaco",157,-0.023,-2.7,0.027
+"proveedor","provincia","g3","Chubut",243,0.162,-1.5,0.027
+"proveedor","provincia","g3","Córdoba",685,-0.012,-5.6,0.027
+"proveedor","provincia","g3","Corrientes",154,-0.189,-4,0.027
+"proveedor","provincia","g3","Entre Ríos",172,0.085,-1.9,0.027
+"proveedor","provincia","g3","Formosa",109,-0.083,-2.7,0.027
+"proveedor","provincia","g3","Jujuy",98,-0.003,-2,0.027
+"proveedor","provincia","g3","La Pampa",94,0.252,-0.3,0.027
+"proveedor","provincia","g3","La Rioja",64,0.308,0,0.027
+"proveedor","provincia","g3","Mendoza",323,0.193,-1.4,0.027
+"proveedor","provincia","g3","Misiones",228,-0.214,-5.2,0.027
+"proveedor","provincia","g3","Neuquén",155,0.323,0.1,0.027
+"proveedor","provincia","g3","Río Negro",191,0.37,0.6,0.027
+"proveedor","provincia","g3","Salta",128,0.043,-2,0.027
+"proveedor","provincia","g3","San Juan",110,0.096,-1.5,0.027
+"proveedor","provincia","g3","San Luis",73,0.33,0.1,0.027
+"proveedor","provincia","g3","Santa Cruz",139,0.252,-0.4,0.027
+"proveedor","provincia","g3","Santa Fe",455,0.039,-3.8,0.027
+"proveedor","provincia","g3","Santiago del Estero",80,0.338,0.2,0.027
+"proveedor","provincia","g3","Tierra del Fuego",131,0.292,-0.1,0.027
+"proveedor","provincia","g3","Tucumán",123,0.139,-1.2,0.027
+"proveedor","A_rubro","g1","ALIMENTOS",629,0.264,-0.1,0.131
+"proveedor","A_rubro","g1","ALQUILER",903,0.784,14.5,0.131
+"proveedor","A_rubro","g1","ELECTRICIDAD Y TEL",498,-0.151,-8.6,0.131
+"proveedor","A_rubro","g1","EQUIPOS",625,0.256,-0.3,0.131
+"proveedor","A_rubro","g1","LIBRERIA PAP. Y UT",328,0.764,8.1,0.131
+"proveedor","A_rubro","g1","MANT. REPARACION Y",2098,-0.051,-14.7,0.131
+"proveedor","A_rubro","g1","OTROS",3250,0.111,-9.8,0.131
+"proveedor","A_rubro","g1","PROD. MEDICO/FARMA",370,1.915,28.8,0.131
+"proveedor","A_rubro","g1","SERV. PROFESIONAL ",1828,0.367,4.1,0.131
+"proveedor","A_rubro","g2","ALIMENTOS",629,-0.966,-12.5,0.118
+"proveedor","A_rubro","g2","ALQUILER",903,-0.996,-15.8,0.118
+"proveedor","A_rubro","g2","ELECTRICIDAD Y TEL",498,-0.102,3.3,0.118
+"proveedor","A_rubro","g2","EQUIPOS",625,-0.05,4.7,0.118
+"proveedor","A_rubro","g2","LIBRERIA PAP. Y UT",328,-0.993,-9.2,0.118
+"proveedor","A_rubro","g2","MANT. REPARACION Y",2098,-0.063,8.8,0.118
+"proveedor","A_rubro","g2","OTROS",3250,-0.305,-0.2,0.118
+"proveedor","A_rubro","g2","PROD. MEDICO/FARMA",370,1.58,26.7,0.118
+"proveedor","A_rubro","g2","SERV. PROFESIONAL ",1828,-0.391,-3.1,0.118
+"proveedor","A_rubro","g3","ALIMENTOS",629,-0.843,-19.4,0.156
+"proveedor","A_rubro","g3","ALQUILER",903,1.398,22.4,0.156
+"proveedor","A_rubro","g3","ELECTRICIDAD Y TEL",498,0.136,-2.5,0.156
+"proveedor","A_rubro","g3","EQUIPOS",625,0.38,1.2,0.156
+"proveedor","A_rubro","g3","LIBRERIA PAP. Y UT",328,2.29,23.8,0.156
+"proveedor","A_rubro","g3","MANT. REPARACION Y",2098,0.107,-6.7,0.156
+"proveedor","A_rubro","g3","OTROS",3250,0.145,-7.3,0.156
+"proveedor","A_rubro","g3","PROD. MEDICO/FARMA",370,-0.696,-12.8,0.156
+"proveedor","A_rubro","g3","SERV. PROFESIONAL ",1828,0.552,7.5,0.156
+"proveedor","A_registro","g1","reg16_18",5841,0.376,10.9,0.02
+"proveedor","A_registro","g1","reg19_21",2851,0.263,-0.4,0.02
+"proveedor","A_registro","g1","reg22plus",1837,-0.056,-13.8,0.02
+"proveedor","A_registro","g2","reg16_18",5841,-0.305,-0.4,0.003
+"proveedor","A_registro","g2","reg19_21",2851,-0.379,-3.6,0.003
+"proveedor","A_registro","g2","reg22plus",1837,-0.165,4.6,0.003
+"proveedor","A_registro","g3","reg16_18",5841,0.254,-3.9,0.006
+"proveedor","A_registro","g3","reg19_21",2851,0.498,7.8,0.006
+"proveedor","A_registro","g3","reg22plus",1837,0.179,-3.9,0.006
+"proveedor","A_cliente","g1","administracion",2416,0.451,9.1,0.464
+"proveedor","A_cliente","g1","ciencia_universidad",764,0.267,-0.1,0.464
+"proveedor","A_cliente","g1","cultura_educacion",588,1.073,17.9,0.464
+"proveedor","A_cliente","g1","infraestructura",1296,-0.46,-25.1,0.464
+"proveedor","A_cliente","g1","salud_social",1473,1.845,58.3,0.464
+"proveedor","A_cliente","g1","seguridad_defensa",3992,-0.302,-41,0.464
+"proveedor","A_cliente","g2","administracion",2416,-0.52,-8.9,0.1
+"proveedor","A_cliente","g2","ciencia_universidad",764,-0.11,4,0.1
+"proveedor","A_cliente","g2","cultura_educacion",588,-1.105,-14.5,0.1
+"proveedor","A_cliente","g2","infraestructura",1296,-0.246,1.5,0.1
+"proveedor","A_cliente","g2","salud_social",1473,-0.983,-20.4,0.1
+"proveedor","A_cliente","g2","seguridad_defensa",3992,0.147,26,0.1
+"proveedor","A_cliente","g3","administracion",2416,0.911,22.1,0.217
+"proveedor","A_cliente","g3","ciencia_universidad",764,0.543,4.4,0.217
+"proveedor","A_cliente","g3","cultura_educacion",588,2.544,36.4,0.217
+"proveedor","A_cliente","g3","infraestructura",1296,0.225,-2.1,0.217
+"proveedor","A_cliente","g3","salud_social",1473,-0.106,-11.2,0.217
+"proveedor","A_cliente","g3","seguridad_defensa",3992,-0.254,-29.3,0.217
+"proveedor","A_escala","g1","chica",3395,-0.132,-25.5,0.125
+"proveedor","A_escala","g1","grande",3389,0.814,34.5,0.125
+"proveedor","A_escala","g1","media",3386,0.112,-10,0.125
+"proveedor","A_escala","g1","sin_ars",359,0.415,2.5,0.125
+"proveedor","A_escala","g2","chica",3395,-0.063,12.2,0.04
+"proveedor","A_escala","g2","grande",3389,-0.697,-20.3,0.04
+"proveedor","A_escala","g2","media",3386,-0.14,8.2,0.04
+"proveedor","A_escala","g2","sin_ars",359,-0.327,-0.4,0.04
+"proveedor","A_escala","g3","chica",3395,0.098,-9.7,0.018
+"proveedor","A_escala","g3","grande",3389,0.53,10.3,0.018
+"proveedor","A_escala","g3","media",3386,0.233,-3.4,0.018
+"proveedor","A_escala","g3","sin_ars",359,0.884,7.3,0.018
+"proveedor","A_directa","g1","mayoria_directa",4482,0.324,4.3,0.002
+"proveedor","A_directa","g1","mixto",2505,0.262,-0.4,0.002
+"proveedor","A_directa","g1","sin_directa",3542,0.207,-4.1,0.002
+"proveedor","A_directa","g2","mayoria_directa",4482,-0.531,-14.7,0.022
+"proveedor","A_directa","g2","mixto",2505,-0.047,10.6,0.022
+"proveedor","A_directa","g2","sin_directa",3542,-0.189,5.9,0.022
+"proveedor","A_directa","g3","mayoria_directa",4482,0.532,13,0.016
+"proveedor","A_directa","g3","mixto",2505,0.112,-7.3,0.016
+"proveedor","A_directa","g3","sin_directa",3542,0.16,-7,0.016
+"proveedor","S_fundamento","g1","consagrado",1224,0.844,19.1,0.035
+"proveedor","S_fundamento","g1","sin_fundamento",3592,0.214,-3.7,0.035
+"proveedor","S_fundamento","g1","solo_aritmetico",5713,0.182,-8.8,0.035
+"proveedor","S_fundamento","g2","consagrado",1224,-0.479,-4.8,0.004
+"proveedor","S_fundamento","g2","sin_fundamento",3592,-0.193,5.8,0.004
+"proveedor","S_fundamento","g2","solo_aritmetico",5713,-0.331,-2.4,0.004
+"proveedor","S_fundamento","g3","consagrado",1224,1.222,22.2,0.047
+"proveedor","S_fundamento","g3","sin_fundamento",3592,0.176,-6.3,0.047
+"proveedor","S_fundamento","g3","solo_aritmetico",5713,0.194,-8.3,0.047

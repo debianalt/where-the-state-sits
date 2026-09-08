@@ -1,0 +1,5 @@
+"prueba","unidades","proveedores","cor_eje1","cor_eje2"
+"bootstrap over units, B = 50 (2.5 / 50 / 97.5)",456,10529,"0.787 / 0.931 / 0.978","0.418 / 0.833 / 0.977"
+"threshold 30 suppliers",419,10421,"1","1"
+"threshold 50 suppliers",332,10128,"0.998","1"
+"without the 50 units furthest out on axis 1",406,9209,"0.751","0.277"

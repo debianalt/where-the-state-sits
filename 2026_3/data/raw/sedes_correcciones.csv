@@ -1,0 +1,4 @@
+sede_localidad,sede_provincia,lat,lon,fuente,nota
+Campo de los Alisos,Tucumán,,,centroide,Parque Nacional Campo de los Alisos; el gacetero nacional de localidades no registra el topónimo y el geocodificado lo resolvió a un punto de Salta
+San Guillermo,San Juan,,,centroide,Parque Nacional San Guillermo; el geocodificado resolvió al homónimo de Santa Fe y el gacetero de localidades no registra el área protegida
+San Nicolás,Buenos Aires,-33.3384,-60.2215,georef_localidades,San Nicolás de los Arroyos; el geocodificado resolvió al barrio porteño de San Nicolás

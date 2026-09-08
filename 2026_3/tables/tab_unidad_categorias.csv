@@ -1,0 +1,21 @@
+"categoria","variable","n","pct","dim.1","dim.2","dim.3","ctr.dim.1","ctr.dim.2","ctr.dim.3"
+"A_escala.chica","A_escala",153,33.5,-0.53,-0.378,-0.179,3,2.7,0.7
+"A_escala.grande","A_escala",152,33.3,0.755,0.602,-0.256,6,6.8,1.4
+"A_escala.media","A_escala",152,33.3,-0.222,-0.222,0.436,0.5,0.9,4.2
+"A_directa.mayoria_directa","A_directa",225,49.2,-0.27,0.205,0.699,1.1,1.2,15.8
+"A_directa.mixto","A_directa",173,37.9,0.385,0.232,-0.623,1.8,1.1,9.7
+"A_directa.sin_directa","A_directa",59,12.9,-0.1,-1.46,-0.84,0,15.6,6
+"A_tipo.administracion","A_tipo",96,21,1.34,-0.82,-0.294,12,8,1.2
+"A_tipo.infraestructura","A_tipo",31,6.8,0.348,0.46,1.788,0.3,0.8,14.3
+"A_tipo.seguridad_defensa","A_tipo",284,62.1,-0.671,0.149,-0.164,8.9,0.8,1.1
+"A_antiguedad.antiguo","A_antiguedad",376,82.3,-0.334,-0.125,-0.082,2.9,0.7,0.4
+"A_antiguedad.medio","A_antiguedad",45,9.8,1.369,-0.091,1.288,5.9,0,10.8
+"A_antiguedad.reciente","A_antiguedad",36,7.9,1.781,1.42,-0.758,8,9,3
+"A_juris.Buenos Aires","A_juris",73,16,-0.659,-0.031,-0.076,2.2,0,0.1
+"A_juris.CABA","A_juris",179,39.2,0.647,0.556,-0.173,5.2,6.8,0.8
+"A_rango.centralizada","A_rango",32,7,1.445,1.666,-1.48,4.7,11,10.1
+"A_rango.descentralizada","A_rango",146,31.9,1.001,-0.617,0.62,10.2,6.9,8.1
+"A_rango.desconcentrada","A_rango",274,60,-0.7,0.13,-0.169,9.3,0.6,1.1
+"A_presupuesto.alto","A_presupuesto",307,67.2,-0.512,0.313,0.046,5.6,3.7,0.1
+"A_presupuesto.bajo","A_presupuesto",36,7.9,1.699,0.684,1.151,7.2,2.1,6.9
+"A_presupuesto.medio","A_presupuesto",101,22.1,0.846,-1.304,-0.545,5,21.2,4.3

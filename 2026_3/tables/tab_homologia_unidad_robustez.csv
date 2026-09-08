@@ -1,0 +1,27 @@
+"medida","valor"
+"gain over shared, bootstrap by organ, 2.5",0.2369
+"gain over shared, median",0.3042
+"gain over shared, 97.5",0.3726
+"gain over type, 2.5",0.0855
+"gain over type, median",0.1718
+"gain over type, 97.5",0.2272
+"r(axis of non-shared, access), 2.5",0.5374
+"r(axis of non-shared, access), median",0.6484
+"r(axis of non-shared, access), 97.5",0.7492
+"organs in the within-organ test",7
+"units in the within-organ test",340
+"within-organ, F of the jurisdiction block",3.5934
+"within-organ, p of that F",0
+"within-organ, provinces below the capital (of 23)",23
+"within-organ, provinces below the capital with p < 0.05",19
+"within-organ, F of jurisdiction and size",3.4063
+"within-organ, p of that F",0
+"within-organ, F of the jurisdiction block, holding the unit's modal sector",3.6764
+"within-organ, p of that F, holding the unit's modal sector",0
+"organs with units in the capital",7
+"organs in which the capital's units rank highest",7
+"within-organ, R2 with the shared coordinates alone",0.4825
+"within-organ, R2 with jurisdiction and size added",0.5957
+"R2 weighted by suppliers",0.7329
+"R2 unweighted",0.726
+"bootstrap draws valid",500
