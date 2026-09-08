@@ -86,11 +86,7 @@ the data layer. Statistical analysis and every published figure are R;
 downloading, cleaning, record linkage and geocoding are Python.
 
 Running the analysis scripts against the shipped interchange files reproduces
-the canonical tables byte for byte. One cell is a known exception:
-`tab_organ_panel.csv` carries a median distance for one organ that was written
-before the flow file was last rebuilt. It changes no category and no result
-reported in the paper.
-
+the canonical tables in `tables/` byte for byte.
 ## Licence
 
 Code under the MIT licence (`LICENSE`). Tables, figures and derived data under

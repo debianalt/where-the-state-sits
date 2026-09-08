@@ -59,9 +59,8 @@ the sources are public, and an order without the sources maps to nobody.
 
 ## Reproducibility note
 
-Running the analysis against the shipped files reproduces the canonical tables
-byte for byte, with one known exception. `tab_organ_panel.csv` carries a median
-distance for one organ, the national gendarmerie, that was written before the
-flow file was last rebuilt: 318.0 km in the table against 330.0 km on a rerun.
-The value falls in the same tercile either way, so the active category, the
-spaces built from it and every result reported in the paper are unchanged.
+Running the analysis against the shipped files reproduces every canonical table
+in `tables/` byte for byte. The de-identification changes no aggregate: the
+surrogate key preserves the order of the identifiers, so the individuals of the
+geometric analysis keep the order the published solution was fitted on and the
+signs of the axes come out as published.
