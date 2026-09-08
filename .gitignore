@@ -3,10 +3,10 @@
 copia.env
 
 # Supplier microdata: taxpayer identifiers and names. Never commit these.
-2026_2/data/raw/comprar_*.csv
-2026_2/data/raw/sipro_*
-2026_2/data/raw/arca_*
-2026_3/data/raw/credito-anual-2024.csv
+data/raw/comprar_*.csv
+data/raw/sipro_*
+data/raw/arca_*
+data/raw/credito-anual-2024.csv
 
 # Working output
 Rplots.pdf

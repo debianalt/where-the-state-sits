@@ -3,8 +3,8 @@
 The code in this repository is under the MIT licence, in `LICENSE`.
 
 Everything that is not code — the de-identified interchange files in `data/processed/`,
-the canonical outputs in `2026_3/tables/`, the figures in `2026_3/figures/`, the hand-coded
-corrections in `2026_3/data/raw/` and the documentation — is released under
+the canonical outputs in `tables/`, the figures in `figures/`, the hand-coded
+corrections in `data/raw/` and the documentation — is released under
 the **Creative Commons Attribution 4.0 International licence (CC BY 4.0)**:
 <https://creativecommons.org/licenses/by/4.0/>.
 

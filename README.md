@@ -13,40 +13,38 @@ the suppliers a unit buys from.
 
 ## Layout
 
-The analysis layer reads its interchange files through relative paths into a
-sibling directory, so the repository ships the pair rather than one folder
-alone. Every script runs from `2026_3/` with no edit:
+The scripts sit at the root, as they do in the project folder, and everything
+they read is inside the repository. `theme_house.R` holds the window, the
+palettes, the labels and the shared constructors; `unidad_helpers.R` holds the
+unit-level ones.
 
 ```
-2026_3/    the analysis: 45 scripts, 69 canonical tables, 4 figures
-2026_2/    the data layer it reads: theme_house.R, the public raw inputs and
-           the three interchange files, de-identified
-```
-
-`theme_house.R` holds the window, the palettes, the labels and the shared
-constructors; `unidad_helpers.R` holds the unit-level ones.
-
-```
-cd 2026_3
+cd where-the-state-sits
 Rscript 00_organ_panel.R      # the organ panel
 Rscript 01_organ_mca.R        # specification search
 Rscript 18_homologia.R        # the homology between the two spaces
 ```
 
+In the working tree the analysis reads its interchange files from a separate
+data-layer directory through relative paths. The copies published here have
+those path constants rewritten to the repository's own `data/`, which is the
+only difference between these files and the ones that produced the results.
+The rewrite is textual and it is checked the only way that means anything: by
+re-running the analysis in a copy of this folder and diffing every table.
+
 ## What is here, and what is not
 
 | Included | |
 |---|---|
-| `2026_3/*.R`, `*.py` | every script of the pipeline, 45 files |
-| `2026_3/tables/` | the 69 canonical outputs every number in the paper is quoted from |
-| `2026_3/figures/` | the four submission figures as PNG, with their captions |
-| `2026_3/data/raw/` | the public inputs that are small and carry no personal data |
-| `2026_3/data/processed/` | the organ-level and unit-level interchange files |
-| `2026_2/` | only what the analysis reads: the shared theme, two public raw inputs and the interchange files |
+| `*.R`, `*.py` | every script of the pipeline, 44 files |
+| `tables/` | the 69 canonical outputs every number in the paper is quoted from |
+| `figures/` | the four submission figures as PNG, with their captions |
+| `data/raw/` | the public inputs that are small and carry no personal data |
+| `data/processed/` | the interchange files the analysis reads, six of them de-identified |
 
-The folder is assembled by `2026_3/build_replication_folder.py`, which lives
-with the project sources and refuses to write a file carrying a taxpayer
-identifier or a credential.
+The folder is assembled by a builder that lives with the project sources and
+refuses to write a file carrying a taxpayer identifier, a credential or a
+path out of the repository.
 
 ## The de-identified interchange files
 
@@ -58,15 +56,15 @@ same file names and the same schema, so no script needs editing:
 
 | file | rows |
 |---|---|
-| `2026_2/data/processed/adjudicaciones_tipo.parquet` | 204,362 |
-| `2026_2/data/processed/flujos_adjudicacion.parquet` | 139,194 |
-| `2026_2/data/processed/supplier_master.parquet` | 73,096 |
-| `2026_3/data/processed/causales_proveedor.parquet` | 10,529 |
-| `2026_3/data/processed/conjunto_proveedores.parquet` | 10,529 |
-| `2026_3/data/processed/proveedores_c10.parquet` | 10,580 |
+| `data/processed/adjudicaciones_tipo.parquet` | 204,362 |
+| `data/processed/flujos_adjudicacion.parquet` | 139,194 |
+| `data/processed/supplier_master.parquet` | 73,096 |
+| `data/processed/causales_proveedor.parquet` | 10,529 |
+| `data/processed/conjunto_proveedores.parquet` | 10,529 |
+| `data/processed/proveedores_c10.parquet` | 10,580 |
 
 One key over all six, so a join across them still holds.
-`2026_3/46_release_anonimizada.py` builds them and asserts the absence of an
+`46_release_anonimizada.py` builds them and asserts the absence of an
 identifier before writing. The key is the rank of the identifier rather than a
 random permutation, because a permuted key reorders the individuals of the
 geometric analysis and reordering flips the sign of an axis: the script header

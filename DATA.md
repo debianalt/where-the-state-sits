@@ -8,25 +8,25 @@ file of this repository.
 
 | File | Source | What it is for |
 |---|---|---|
-| `2026_2/data/raw/georef_provincias.geojson` | georef distribution, infra.datos.gob.ar | the base map of the figures |
-| `2026_2/data/raw/uoc_gazetteer.csv` | own construction over the unit description field, with hand verification | the seat of each buying unit |
-| `2026_2/data/processed/ipc_anual.csv` | national consumer price index, annual | deflating amounts to constant pesos |
-| `2026_2/data/processed/adjudicaciones_apartado.parquet` | derived from the award records | the legal ground of each exemption |
-| `2026_3/data/raw/credito-anual-2024.zip` | national open budget, annual appropriation by service | the budget of each administrative service |
-| `2026_3/data/raw/d-servicio-2024.*`, `d-unidad-ejecutora.*`, `totales-de-presupuesto.*` | the same source, dimension tables | names and codes of services and executing units |
-| `2026_3/data/raw/dotacion_total.xlsx`, `dotacion_por_organismo.xlsx`, `dotacion_entidades.txt` | INDEC, public-employment series by entity | staffing of each entity |
-| `2026_3/data/raw/sedes_correcciones.csv` | hand-coded corrections to the gazetteer | seats the automatic layers placed wrongly |
+| `data/raw/georef_provincias.geojson` | georef distribution, infra.datos.gob.ar | the base map of the figures |
+| `data/raw/uoc_gazetteer.csv` | own construction over the unit description field, with hand verification | the seat of each buying unit |
+| `data/processed/ipc_anual.csv` | national consumer price index, annual | deflating amounts to constant pesos |
+| `data/processed/adjudicaciones_apartado.parquet` | derived from the award records | the legal ground of each exemption |
+| `data/raw/credito-anual-2024.zip` | national open budget, annual appropriation by service | the budget of each administrative service |
+| `data/raw/d-servicio-2024.*`, `d-unidad-ejecutora.*`, `totales-de-presupuesto.*` | the same source, dimension tables | names and codes of services and executing units |
+| `data/raw/dotacion_total.xlsx`, `dotacion_por_organismo.xlsx`, `dotacion_entidades.txt` | INDEC, public-employment series by entity | staffing of each entity |
+| `data/raw/sedes_correcciones.csv` | hand-coded corrections to the gazetteer | seats the automatic layers placed wrongly |
 
 `credito-anual-2024.zip` travels instead of the CSV inside it, which is 108 MB.
 Unzip it in place before running `13_build_presupuesto.py`:
 
 ```
-cd 2026_3/data/raw && unzip credito-anual-2024.zip
+cd data/raw && unzip credito-anual-2024.zip
 ```
 
 ## Not shipped, and where to get it
 
-**`2026_2/data/raw/comprar_adjudicaciones_2016_2026.csv`**, the COMPR.AR award
+**`data/raw/comprar_adjudicaciones_2016_2026.csv`**, the COMPR.AR award
 records, 84 MB. Published as open data by the Oficina Nacional de
 Contrataciones on datos.gob.ar, dataset 4, distribution 4.22. Only
 `29_unidad_key.py` reads it, and the file that script produces
